@@ -1,7 +1,7 @@
 ## lcoal use
-
+```bash
 curl -L https://raw.githubusercontent.com/worldfar2016/ecs-vps-checking/main/ecs.sh -o ecs.sh && chmod +x ecs.sh && bash ecs.sh
-
+```
 
 # ecs
 
